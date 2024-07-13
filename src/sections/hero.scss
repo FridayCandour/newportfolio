@@ -1,0 +1,15 @@
+
+.Hero {
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    .h-wapper{
+        display: flex;
+        
+        .info-dev{
+            display: flex;
+            flex-direction: row;
+        }
+    }
+    
+} 
